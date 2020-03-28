@@ -85,6 +85,7 @@ public class Constants {
         final public static String CO_SO_KHAM_BENH = identifierSystems.getProperty("co_so_kham_benh");
         final public static String CHUNG_CHI_HANH_NGHE = identifierSystems.getProperty("chung_chi_hanh_nghe");        
         final public static String MA_HO_SO = identifierSystems.getProperty("ma_ho_so");
+        final public static String DON_THUOC = identifierSystems.getProperty("don_thuoc");
     }
     
     public static interface CodeSystemValue {
@@ -110,6 +111,8 @@ public class Constants {
         final public static String CHI_SO_XET_NGHIEM = codeSystems.getProperty("chiso_xetnghiem");
         final public static String VI_TRI_MAU_SINH_THIET = codeSystems.getProperty("vi_tri_mau_sinh_thiet");
         
+        final public static String DM_THUOC = codeSystems.getProperty("dm_thuoc");
+        final public static String DM_DUONG_DUNG_THUOC = codeSystems.getProperty("dm_duong_dung_thuoc");
     }
     
     
